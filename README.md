@@ -38,8 +38,9 @@ THEN I am again presented with current and future conditions for that city
 
 The following links lead to gitgub repository with my project and application live URL.
 
-https://github.com/tatiana404/TimeTable_challenge
-https://tatiana404.github.io/TimeTable_challenge/
+https://github.com/tatiana404/cute_weather_application
+https://tatiana404.github.io/cute_weather_application/
+
 ## Screenshot
 
 
