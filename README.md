@@ -42,7 +42,8 @@ https://github.com/tatiana404/cute_weather_application
 https://tatiana404.github.io/cute_weather_application/
 
 ## Screenshot
-![image](https://github.com/tatiana404/cute_weather_application/assets/65060199/6f7fc9b0-c7af-4110-aaaa-089af9a7f539)
+![image](https://github.com/tatiana404/cute_weather_application/assets/65060199/bd2e8e2b-36f0-474f-9e1e-132639a6b2f2)
+
 
 
 ## Credits
